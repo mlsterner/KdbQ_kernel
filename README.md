@@ -17,6 +17,7 @@ __Other Existing Kernels__
 - Testing (I doubt k support currently works)
 - Pip/Conda publication
 
+more practice with git
 
 # Install
 
